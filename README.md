@@ -76,7 +76,11 @@
 
 ![11](https://github.com/muchen0926/Artificial-Intelligence-Final-Report/blob/main/%E6%9C%9F%E6%9C%ABcode/11.png)
 
-結果保存在runs/detect/exp5裡，讓我們看看效果：
+結果保存在runs/detect/exp5裡
+
+![13](https://github.com/muchen0926/Artificial-Intelligence-Final-Report/blob/main/13.png)
+
+最後打印出來看一下(也可以在資料夾裡面看)
 
     display.Image(filename='/content/yolov5/runs/detect/exp5/zidane.jpg', width=800)
 
