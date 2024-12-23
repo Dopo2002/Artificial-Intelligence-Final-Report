@@ -78,4 +78,6 @@
 
 結果保存在runs/detect/exp5裡，讓我們看看效果：
 
+    display.Image(filename='/content/yolov5/runs/detect/exp5/zidane.jpg', width=800)
+
 ![12](https://github.com/muchen0926/Artificial-Intelligence-Final-Report/blob/main/%E6%9C%9F%E6%9C%ABcode/12.png)
