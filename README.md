@@ -1,6 +1,6 @@
 # 環境創建
 ## 筆記本設定
-實作中請注意環境創建時的筆記本設定，如果沒有切換GPU在後面訓練模型時會跑不動
+實作中請注意環境創建時的筆記本設定，如果沒有切換GPU那麼在後面訓練模型時會跑不動
 
 ![14](https://github.com/muchen0926/Artificial-Intelligence-Final-Report/blob/main/14.png)
 
